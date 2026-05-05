@@ -1,4 +1,4 @@
-name: Upgrade PKHeX
+name: Upgrade PKHeX DLLs
 
 on:
   workflow_dispatch:
